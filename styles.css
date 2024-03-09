@@ -15,11 +15,17 @@
     background:white;
     width: 350px;
     height: 45px;
-    
+    display: flex;
 }
 
 .username{
-    padding-top: 10px;
+    padding-top: 5px;
+    padding-left: 50px;
+}
+
+.menu{
+    padding-top: 5px;
+    padding-left: 215px; 
 }
 
 
@@ -37,9 +43,30 @@ img{
 
 .icons{
     background: white;
+    display: flex;    
+}
+
+.icon1{
     padding-left: 5px;
     padding-right: 5px;
-    padding-top: 50px;
+    padding-top: 5px;
+}
+
+.icon2{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+.icon3{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+.icon4{
+    padding-left: 215px;
+    padding-right: 5px;
+    padding-top: 5px;
 }
 
 .liked{
